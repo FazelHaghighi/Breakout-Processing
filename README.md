@@ -10,5 +10,5 @@
 3. Put your project in this folder.
 4. Create a README.md file and describe your project. 
 
-### Tip 
+## Quick Tip: 
 You can use git as a version control for doing these steps and developing your project.
