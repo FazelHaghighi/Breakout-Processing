@@ -1,7 +1,7 @@
 # Breakout-Processing
  Final project of fall semester 1401. Repository of ap students' games.
  
-![Animation3]<img width="640" height="380" align="center" src="https://user-images.githubusercontent.com/100942443/209483236-8afd3290-cf4b-4f6b-b57e-55d2c235bf00.gif">
+<img width="500" height="280" align="center" src="https://user-images.githubusercontent.com/100942443/209483236-8afd3290-cf4b-4f6b-b57e-55d2c235bf00.gif">
 
 
 ## To submit your project: 
